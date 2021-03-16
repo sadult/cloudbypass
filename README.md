@@ -1,12 +1,15 @@
-### cloud-killer
+
+<img src="code.jpg" alt="CODE">
+
+### CloudBypass
 best tool to bypass cloudflare made with  Python3
 easy & best 
 
 
 ### Usage:
 ```
-git clone https://github.com/FDX100/cloud-killer.git
-cd cloud-killer
+git clone https://github.com/sadult/cloudbypass.git
+cd cloudbypass
 pip3 install -r requirments.txt
 python3 cloud_killer.py
 
